@@ -15,6 +15,11 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 /**
  * https://howtodoinjava.com/spring-cloud/microservices-monitoring/
+ *
+ * https://www.baeldung.com/introduction-to-hystrix
+ * solutions available that help make applications resilient and fault tolerant – one such framework is Hystrix.
+ * nem valami ertheto
+ *
  * http://localhost:8010/employeeDetails/111
  */
 @RestController
